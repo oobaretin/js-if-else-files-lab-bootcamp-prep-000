@@ -1,11 +1,6 @@
-var name = "Susan"
+var name = "Joe"
 var height = "74"
 
-if (index.height === 74) {
-    console.log("The height is correct")
-} else {
-    console.log("Expected height to be correct")
-}
 
 
 
