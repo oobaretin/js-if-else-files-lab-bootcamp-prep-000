@@ -1,7 +1,9 @@
 var name = "Susan"
 var height = "74"
 
-if 
+if (height==="74") {
+  console.log("")
+}
 
 
 // Don't worry about this
